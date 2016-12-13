@@ -10,7 +10,7 @@ import org.scalatest.mock.MockitoSugar
 import service.{SitemapGenerator, Spider}
 
 /**
-  * Created by sam.elamin on 10/12/2016.
+  * Created by sam.elamin on 13/12/2016.
   */
 class SitemapGeneratorSpec extends FeatureSpec with MockitoSugar {
   feature("Parsing Links from String") {
